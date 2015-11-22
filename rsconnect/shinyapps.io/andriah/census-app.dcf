@@ -1,0 +1,9 @@
+name: census-app
+account: andriah
+server: shinyapps.io
+appId: 69956
+bundleId: 315473
+url: https://andriah.shinyapps.io/census-app
+when: 1448095859.98777
+asMultiple: FALSE
+asStatic: FALSE
